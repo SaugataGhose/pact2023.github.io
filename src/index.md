@@ -89,8 +89,8 @@ conference-hosted SRCs.
 - The abstract must include
 	- Poster title
 	- Author name(s) and student status (undergrad/graduate)
-	- Affiliation(s),
-	- The name of the research advisor(s).
+	- Affiliation(s)
+	- The name of the research advisor(s)
 - The abstract should describe the research problem, motivation and
   background, techniques (and their novelty), and results.
 - All students whose abstracts are accepted are expected to attend
