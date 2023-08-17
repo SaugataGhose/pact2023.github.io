@@ -142,7 +142,7 @@ conference-hosted SRCs.
 - Sayan Ghosh (Pacific Northwest National Laboratory)
 - Juan Gómez Luna (ETH Zürich)
 - Udit Gupta (Cornell Tech)
-- Tsung-Wei Huang (Univ. of Utah)
+- Tsung-Wei Huang (Univ. of Wisconsin–Madison)
 - Tze Meng Low (Carnegie Mellon Univ.)
 - Abdulrahman Mahmoud (Harvard Univ.)
 - Charith Mendis (Univ. of Illinois Urbana-Champaign)
